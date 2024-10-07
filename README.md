@@ -69,6 +69,13 @@
   
 </div>
 
+###  Портфолио:
+
+<div id="badges">
+    <a href="https://github.com/varvarapanchenko?tab=repositories" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="40" height="40" alt="github" />
+    </a>
+
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varvarapanchenko)
